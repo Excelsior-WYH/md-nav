@@ -1,0 +1,23 @@
+{
+  "name": "md-nav",
+  "version": "1.0.0",
+  "description": "generating navigation for markdown documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Excelsior-WYH/md-nav.git"
+  },
+  "keywords": [
+    "markdown",
+    "navigation"
+  ],
+  "author": "excelsior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Excelsior-WYH/md-nav/issues"
+  },
+  "homepage": "https://github.com/Excelsior-WYH/md-nav#readme"
+}
